@@ -21,9 +21,12 @@ For some reason I admit that I was a little surprised to find a Wikipedia page a
 [your turn!]
 
 
-### [Additional Courses...]
+### CMPSC 442: Intro to Artificial Intelligence
 
 [your turn!]
 
+### IST 250: Introduction to Web Design and Development
+
+### CMPEN 454: Fundamentals of Computer Vision
 
 
