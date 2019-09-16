@@ -1,6 +1,6 @@
 ---
 title: "RMarkdown Class Schedule"
-author: "Andy Wiesner"
+author: "Nelson Huang"
 date: "September 12, 2019"
 output: html_notebook
 ---
@@ -18,15 +18,34 @@ For some reason I admit that I was a little surprised to find a Wikipedia page a
 
 ### STAT 184: Introduction to R Programmaing
 
-[your turn!]
+This semester, I am enrolled in STAT 184. So far, it's an interesting couple of weeks. I copmleted a couple of assignments about "Tidy Data" and how it can be used to organize variables in various datasets. In addition, I have the unique opportunity to learn a new programming language in R, which is really exciting because I never really touched on this before. I do have experience coding in Python, Java and C++, but it's always fun to expand that knowledge and learn something new. From my observation, Python programming language is similar to R such that their syntaxes are almost identical. I'm definitely looking forward to learn more about R and how it can be used in statistics. 
+
+This Wikipedia page have some interesting topics related to R programming. It includes topics about its various features, as well as its history. Click [here](https://en.wikipedia.org/wiki/R_(programming_language)) to learn more. 
+
+![](https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png)
 
 
 ### CMPSC 442: Intro to Artificial Intelligence
 
-[your turn!]
+Another course I am taking this semester is CMPSC 442, which is an introduction to artificial intelligence. The first week of the semester was a review of some basic Python topics, including list comprehensions, generators and object oriented programming. We are currently learning about intelligent agents and how any agent would act on a certain environment. 
+
+It's a really interesting topic, which can be read more at [this](https://en.wikipedia.org/wiki/Intelligent_agent) Wikipedia page.
+
+![](https://futureoflife.org/wp-content/uploads/2015/11/artificial_intelligence_benefits_risk.jpg)
 
 ### IST 250: Introduction to Web Design and Development
 
+Another course I am taking this semester is IST 250, which is an introduction to web design and web development. This is definitely a course I'm looking forward to because it is close to my area of expertise. During the first week of class, we learned the basics of HTML and how the world wide web operates. The pace of the lesson was a bit slow for me, but we immediately moved on to learn CSS the next several days. This was a bit strange for me, but I'm assuming, and hoping, we are learning both HTML and CSS concurrently. 
+
+This Wikipedia [page](https://en.wikipedia.org/wiki/Web_development) has some interesting information about web development, in general. 
+
+![](https://miro.medium.com/max/1200/1*pE2fOVDikEUwiQJlh4ggzg.jpeg)
+
+
 ### CMPEN 454: Fundamentals of Computer Vision
 
+And lastly, another course I'm taking this semester is CMPEN 454. This is a Computer Vision course that talks about how computer projects various graphics and the mathematical concepts behind such development. There is a lot linear algebra involved because computer graphics can be represente with a matrix. Each pixel can be represented by numbers, which is just the hex code for a certain combination of colors. How a graphic moves is all dependent on the computer's CPU to compute various computations. 
 
+To learn more, visit this Wikipedia [page](https://en.wikipedia.org/wiki/Computer_vision).
+
+![](https://skywell.software/wp-content/uploads/2019/07/computer-vision-machine-learning-1024x630.jpg)
